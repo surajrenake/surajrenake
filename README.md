@@ -10,10 +10,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/surajrenake05" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="surajrenake05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suraj-renake-90a64a126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="suraj-renake-90a64a126" height="30" width="40" /></a>
-<a href="https://fb.com/surajrenake3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="surajrenake3" height="30" width="40" /></a>
-<a href="https://instagram.com/suraj_sr05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="suraj_sr05" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/suraj renake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="suraj renake" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suraj-renake-90a64a126" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="suraj-renake-90a64a126" height="30" width="40" /></a>
+<a href="https://fb.com/surajrenake3" target="blank"><img align="center" src="https://iconape.com/wp-content/files/yd/117914/svg/Facebook_f_logo__2019_.svg" alt="surajrenake3" height="30" width="40" /></a>
+<a href="https://instagram.com/suraj_sr05" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="suraj_sr05" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC5IUVc1UQjaLWm0TOrRvHMQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1280px-YouTube_Logo_2017.svg.png" alt="suraj renake" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
