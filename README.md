@@ -1,12 +1,12 @@
-### Hi there, I'm Suraj Renake <span style="wave">👋</span>
+ ### Hi there, I'm Suraj Renake 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/surajrenake05?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Student, who's enthusiastic towards AI, Data science👨‍💻!
 
-- 🌱 I’m currently attracted towards all the skills 🤣
-- 👯 I’m looking for any sort of colaboration, just wanna give a try 😜
-- 🥅 2021 Goals: Concentrate on my academics, and try creating project Ideas 
+- 🌱 I’m currently attracted towards all the tecchnologies 🤣
+- 👯 I’m looking for any sort of collaboration, just wanna give a try 😜
+- 🥅 2021 Goals: Focusing on my academics, and noting 
 - ⚡ Fun fact: I love music(I'm bathroom singer, you know?!) and play guitar sometimes, writing journal, and much more. . . 
 - 📫 How to reach me **surajrenake05@outlook.com**
 
