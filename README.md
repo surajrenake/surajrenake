@@ -31,7 +31,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Suraj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=surajrenake&show_icons=true&locale=en" />
+  ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajrenake&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
