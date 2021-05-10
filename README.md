@@ -10,7 +10,7 @@
 
 ## I'm a Student, who's enthusiastic towards AI, Data science👨‍💻!
 
-- 🌱 I’m currently attracted towards all the tecchnologies 🤣
+- 🌱 I’m currently attracted towards all the technologies 🤣
 - 👯 I’m looking for any sort of collaboration, just wanna give a try 😜
 - 🥅 2021 Goals: Focusing on my academics, and noting 
 - ⚡ Fun fact: I love music (I'm bathroom singer, you know?!) and play guitar sometimes, writing journal, and much more. . . 
