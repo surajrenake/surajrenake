@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently attracted towards all the technologies 🤣
 - 👯 I’m looking for any sort of collaboration, just wanna give a try 😜
-- 🥅 2021 Goals: Focusing on my academics, and noting 
+- 🥅 2021 Goals: Focus, focus, 'n focus 
 - ⚡ Fun fact: I love music (I'm bathroom singer, you know?!) and play guitar sometimes, writing journal, and much more. . . 
 - 📫 How to reach me **surajrenake05@outlook.com**
 
