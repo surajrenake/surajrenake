@@ -2,10 +2,10 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@surajrenake05-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/surajrenake "LinkedIn->Suraj Renake")](https://twitter.com/surajrenake05) 
+[![Twitter Badge](https://img.shields.io/badge/-@surajrenake05-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/surajrenake "Twiter handle->Suraj Renake")](https://twitter.com/surajrenake05) 
 [![Mail Badge](https://img.shields.io/badge/-SurajRenake-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white "YouTube-> nothing to look for! ;)")](https://www.youtube.com/channel/UC5IUVc1UQjaLWm0TOrRvHMQ)
 [![Linkedin Badge](https://img.shields.io/badge/-Suraj-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-renake-90a64a126/ "LinkedIn->Suraj Renake") 
-[![Mail Badge](https://img.shields.io/badge/-@suraj_sr05-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white "Instagram->Suraj Renake(just personal things. . . ;))")](https://instagram.com/suraj_sr05) 
+[![Mail Badge](https://img.shields.io/badge/-@suraj_sr05-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white "Instagram->Suraj Renake(just the personal stuff. . . ;))")](https://instagram.com/suraj_sr05) 
 [![Mail Badge](https://img.shields.io/badge/-surajrenake05@outlook.com-3D9AC8?style=flat&labelColor=3D9AC8&logo=gmail&logoColor=white "Mail me..!")](mailto:surajrenake05@outlook.com)
 
 ## I'm a Student, who's enthusiastic towards AI, Data science👨‍💻!
