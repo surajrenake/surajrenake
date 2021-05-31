@@ -1,4 +1,4 @@
- ### Hi there<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Suraj Renake!
+  ### Hi there<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Suraj Renake!
 
 :mailbox: Reach me out!
 
@@ -26,7 +26,7 @@
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=surajrenake.surajrenake)
+![visitors](https://camo.githubusercontent.com/4a3566e1e8372a9563d846413f20856cff9aa0e853c59199d26aa78f5fdba999/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d737572616a72656e616b652e737572616a72656e616b65)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
